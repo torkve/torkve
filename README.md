@@ -4,10 +4,10 @@ Write the code and throw it into the water.
 
 ### 🪚 Job offers
 
+- ⚡ ***I do not participate in any blockchain chats and do not write to anyone with any propositions there. You are probably being scammed***
 - I'm not much interested in part time or freelance offers
 - ⚡ I have no accounts on any freelance job sites
 - ⚡ If someone refers this Github as their portfolio, check if they can give a proof (e.g. with my GPG key **BDF3D58D2CC4055F**)
-- ⚡ I do not participate in any blockchain chats and do not write to anyone with any propositions there. You are probably being scammed
 
 ### 🔌 What i do
 - I develop internal cloud solutions for [Yandex](https://yandex.com)
