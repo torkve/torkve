@@ -10,7 +10,7 @@ Write the code and throw it into the water.
 - ⚡ If someone refers this Github as their portfolio, check if they can give a proof (e.g. with my GPG key **BDF3D58D2CC4055F**)
 
 ### 🔌 Things I do
-- I develop internal cloud solutions for [Yandex](https://yandex.com
+- I develop internal cloud solutions for [Yandex](https://yandex.com)
 - I can write in C, Python and Rust
 - If the task is interesting, I can try to remember OCaml
 - If the task is important, I can write C++, Go and almost anything
