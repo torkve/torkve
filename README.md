@@ -12,7 +12,7 @@ Write the code and throw it into the water.
 ### 🔌 Things I do
 - I develop internal cloud solutions for [Yandex](https://yandex.com)
 - I can write in C, Python and Rust
-- If the task is interesting, I can try to remember OCaml
+- If the task is interesting, I can try to dust off OCaml
 - If the task is important, I can write C++, Go and almost anything
 - ⚡ Just don't ask me to do anything with word "Java" in its name
 - ⚡ Javascript included
