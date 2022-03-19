@@ -1,4 +1,4 @@
-## 💻 torkve is typing…
+## 💻 make code, not war
 
 Write the code and throw it into the water.
 
